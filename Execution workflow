@@ -1,0 +1,24 @@
+employee-attrition-prediction-ml/
+
+│
+├── data/
+│   └── HR_comma_sep.csv
+│
+├── notebooks/
+│   └── Employee_Attrition_Analysis.ipynb
+│
+├── figures/
+│   ├── model_comparison.png
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── feature_importance.png
+│
+├── reports/
+│   ├── Final_Report.pdf
+│   └── Presentation.pptx
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── LICENSE
